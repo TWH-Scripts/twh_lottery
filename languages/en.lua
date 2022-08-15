@@ -9,6 +9,7 @@ Locales["en"] = {
   successLocation ="You won! Take your scratch cards to the next lottery market",
   alreadyUsed = "You already used all of your scratch cards",
   priceDesc = "Price: ",
-  prompt = "Give scratchcard"
+  prompt = "Give scratchcard",
+  noCard = "You don't have any Cards to exchange"
   
 }

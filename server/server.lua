@@ -120,7 +120,8 @@ AddEventHandler("twh_lottery:exchange", function()
         end
         TriggerClientEvent("vorp:NotifyLeft",_source, _U("title"),_U("success").."~e~"..won.."~q~$", "generic_textures", "tick", 2000)
 		Character.addCurrency(0, won)  
-
+    else
+        TriggerClientEvent("vorp:NotifyLeft",_source, _U("title"),_U("noCard"), "generic_textures", "tick", 2000)
     end
     
 
