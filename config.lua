@@ -3,7 +3,7 @@ Config = {}
 Config.defaultlang = "en"
 
 --Webhook
-Config.Logs         = true 
+Config.Logs         = true
 Config.Discord      = true  --if you use discord whitelist
 Config.webhook      = ""
 Config.webhookColor = 16711680 
@@ -18,7 +18,7 @@ Config.scratchCards = {     --make sure that all items you use in here exists in
         name="Small Card",
         item = "scratchcard",
         chances = {
-            {chance= 50, price = 1},      --5% chance to win 10$
+            {chance= 3, price = 1},      --3% chance to win 1$
             {chance= 2, price = 10},
             {chance= 1, price = 100},
             {chance= 0.01, price = 1000}
@@ -34,7 +34,7 @@ Config.scratchCards = {     --make sure that all items you use in here exists in
 Config.useLocations = true  --set to false if you want to get price instant
 
 
-Config.key = 0x760A9C6F --G
+Config.key = 0x760A9C6F --G to exchange cards
 
 Config.locations = {
     SaintDenis = {
