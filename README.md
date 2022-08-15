@@ -1,6 +1,6 @@
 # twh_lottery
 
-Scratch cards with vorp_inventory meta system
+> Scratch cards with vorp_inventory meta system
 
 ## Dependencies
 - Vorp Core
