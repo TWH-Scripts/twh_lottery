@@ -18,6 +18,7 @@ Scratch cards with vorp_inventory meta system
 - Setup NPCs to trade cards or give players money directly
 
 ##Screenshots
+
 ![image](https://user-images.githubusercontent.com/102512250/184645697-3d4781b3-0b9f-4ce2-8657-771bd46fa12f.png)
 
 
